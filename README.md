@@ -22,5 +22,6 @@ Runtime systems used to load levels and control the game's state and progression
 ## Play the Game
 
 TWEAKARC is playable from my portfolio:
+**https://milan1512.itch.io/tweakarc**
 
-milanchandegara.com
+**milanchandegara.com**
